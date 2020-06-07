@@ -5,10 +5,21 @@ public class Pays {
     private String recordid;
     private String latitude;
     private String longitude;
-    private String superficie_totale;
+    private String superface_totale;
     private String a3_un;
     private String country;
     private String capital;
+    private String dialing_code;
+    private String image;
+
+
+    public String getImage() {
+        return image;
+    }
+
+    public String getDialing_code() {
+        return dialing_code;
+    }
 
     public String getDatasetid() {
         return datasetid;
@@ -26,8 +37,8 @@ public class Pays {
         return longitude;
     }
 
-    public String getSuperficie_totale() {
-        return superficie_totale;
+    public String getSurface_totale() {
+        return superface_totale;
     }
 
     public String getA3_un() {

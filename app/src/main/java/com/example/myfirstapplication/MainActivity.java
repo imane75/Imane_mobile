@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void showError() {
-        //Merci Monsieur pour vos explications <3
+
         Toast.makeText(getApplicationContext(), "API ERROR", Toast.LENGTH_SHORT).show();
     }
 }

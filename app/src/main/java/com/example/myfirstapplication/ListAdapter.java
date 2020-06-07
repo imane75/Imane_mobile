@@ -9,6 +9,8 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.bumptech.glide.Glide;
+
 import java.util.List;
 
 public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
@@ -22,13 +24,13 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
         // each data item is just a string in this case
         public TextView txtHeader;
         public TextView txtFooter;
-        public ImageView iconTeam;
+        public ImageView iconPays;
         public View layout;
 
         public ViewHolder(View v) {
             super(v);
             layout = v;
-            iconTeam = (ImageView) v.findViewById(R.id.icon);
+            iconPays = (ImageView) v.findViewById(R.id.icon);
             txtHeader = (TextView) v.findViewById(R.id.firstLine);
             txtFooter = (TextView) v.findViewById(R.id.secondLine);
         }
@@ -72,7 +74,7 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
         final Pays currentPays = values.get(position);
         holder.txtHeader.setText(currentPays.getCountry());
         holder.txtFooter.setText(String.valueOf(currentPays.getCapital()));
-        //Glide.with(holder.itemView.getContext()).load(currentPays.getIcon()).into(holder.iconPays);
+        Glide.with(holder.itemView.getContext()).load(currentPays.getImage()).into(holder.iconPays);
 
         holder.txtHeader.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -81,7 +83,12 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
                 Intent intent = new Intent(context, Main2Activity.class);
                 intent.putExtra("pays", currentPays.getCountry());
                 intent.putExtra("capitale", currentPays.getCapital());
-                intent.putExtra("wsh", Constants.TEXT_COMPETENCE);
+                intent.putExtra("latitude", currentPays.getLatitude());
+                intent.putExtra("longitude", currentPays.getLongitude());
+                intent.putExtra("surface_totale", currentPays.getSurface_totale());
+                intent.putExtra("num_id", currentPays.getDialing_code());
+
+
                 context.startActivity(intent);
             }
         });

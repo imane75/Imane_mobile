@@ -1,0 +1,389 @@
+{
+"results" : [
+   {
+      "datasetid":"country-flags",
+      "recordid":"c6124907f377d370e2045e7b6008e4bbb3db386e",
+       "latitude": "23.634501",
+       "longitude": "-102.552784",
+       "Superficie_totale":"1 964 375 km2",
+       "a3_un":"MEX",
+       "country":"Mexico",
+       "capital":"Mexico"
+    
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"6e883dca31f77f0cd9228cd4a81eeec8a744c58d",
+      "latitude": "33.93911",
+       "longitude": "67.709953",
+         "Superficie_totale":"647 500 km2",
+         "a3_un":"AFG",
+         "country":"Afghanistan",
+         "capital":"Kaboul"   
+    },
+     
+   {
+      "datasetid":"country-flags",
+      "recordid":"a904c804c325f9fbcee7be68abe6e37dec0420dd",
+         "latitude": "11.825137999999999",
+         "longitude": "42.590275",
+      "Superficie_totale": "23 200 km2",
+         "dialing_code":"253",
+         "a3_un":"DJI",
+         "country":"Djibouti",
+     "capital":"Djibouti"
+       
+      
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"d46d5929906a9f5db68d15f9e224015a68efda74",
+     
+        "latitude": "50.503887",
+         "longitude": "4.469936",
+         "Superficie_totale": "30 688 km2",
+         "dialing_code":"32",
+         "a3_un":"BEL",
+         "country":"Belgium",
+        "capital":"Bruxelles"
+   
+   },
+     
+   {
+      "datasetid":"country-flags",
+      "recordid":"8b8861d106e823e919e9751e1b0c0314af891d7b",
+     
+        "latitude": "9.945587",
+         "longitude": "-9.696645",
+         "Superficie_totale": "245 857 km2",
+         "dialing_code":"224",
+         "a3_un":"GIN",
+         "country":"Guinea",
+        "capital":"Conakry"
+    
+     
+   },
+  
+   {
+      "datasetid":"country-flags",
+      "recordid":"dbe664d7dbf71ea5e44ac2f4c1dbde269eb98562",
+   
+        "latitude": "-13.759029",
+         "longitude": "-172.104629",
+         "Superficie_totale": "2 944 km2",
+         "dialing_code":"685",
+         "a3_un":"WSM",
+         "country":"Samoa",
+        "capital":"Apia"
+         
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"65192320cc94ccdede5b91a7db518d6c3528b12f",
+        "latitude": "-25.274398",
+         "longitude": "133.775136",
+         "Superficie_totale": "7 692 060 km2",
+         "dialing_code":"61",
+         "a3_un":"AUS",
+         "country":"Australia",
+        "capital":"Canberra"
+        
+     
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"b6ce9c03c8f4ea9c0e027f87c6394f7a352e395a",
+     
+        "latitude": "31.791702",
+         "longitude": "-7.09262",
+         "Superficie_totale": "446 550 km2",
+         "dialing_code":"212",
+         "a3_un":"MAR",
+         "country":"Morocco",
+        "capital":"Rabat"
+        
+       
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"5c1572c9617f55698cf050c27c2ea4484ecfb332",
+         "latitude": "18.109581",
+         "longitude": " -77.297508",
+         "Superficie_totale": "11 425 km2",
+         "dialing_code":"1-876",
+         "a3_un":"JAM",
+         "country":"Jamaica",
+        "capital":"Lusaka"
+      
+        
+
+   
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"3d65b2024ca239a179a219405a628ba851051cd8",
+          "latitude": "49.465691",
+         "longitude": "-2.585277999999999",
+      "Superficie_totale": "78 km2",
+         "dialing_code":"44",
+         "a3_un":"GGY",
+         "country":"Guernsey",
+        "capital":"Saint-Pierre-Port"
+        
+         
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"5ce7759dd59d610a2d639688a2d519b3a42bcc16",
+         "latitude": "58.595272",
+         "longitude": "25.013607",
+      "Superficie_totale": "45 339 km2",
+         "dialing_code":"372",
+         "a3_un":"EST",
+         "country":"Estonia",
+        "capital":"Tallinn"
+        
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"91570fae54937a5857a8a304218b6e62274066bb",
+     
+        "latitude": "52.132633",
+         "longitude": "5.291266",
+      "Superficie_totale": "752 614 km2",
+         "dialing_code":"31",
+         "a3_un":"NLD",
+         "country":"Netherlands",
+        "capital":"Amsterdam"
+         
+    },
+         
+   {
+      "datasetid":"country-flags",
+      "recordid":"2b9c0dfec682c614f3ff831d494771478d2df163",
+    
+        "latitude": "60.128161",
+         "longitude": "18.643501",
+      "Superficie_totale": "449 965 km2",
+         "dialing_code":"46",
+         "a3_un":"SWE",
+         "country":"Sweden",
+        "capital":"Stockholm"
+   },  
+   {
+      "datasetid":"country-flags",
+      "recordid":"8043c74bf14d47de04cc4ec605205bd07e0dd24a",
+         "latitude": "3.202778",
+         "longitude": "73.22068",
+      "Superficie_totale": "298 km2",
+         "dialing_code":"960",
+         "a3_un":"MDV",
+         "country":"Maldives",
+        "capital":"Malé"
+    },
+     
+   {
+      "datasetid":"country-flags",
+      "recordid":"a69a0b864e155d5bbe5c3e8fc61e9059817c85fb",
+  
+        "latitude": "13.794185",
+         "longitude": "-88.89653",
+      "Superficie_totale": "20 742 km2",
+         "dialing_code":"503",
+         "a3_un":"SLV",
+         "country":"El Salvador",
+        "capital":"San Salvador"
+         
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"0d8cd4d4a60382aab63fd17355afa7ef211965a6",
+         "latitude": "-35.675147",
+         "longitude": "-71.542969",
+      "Superficie_totale": "755 276 km2",
+         "dialing_code":"56",
+         "a3_un":"CHL",
+         "country":"Chile",
+        "capital":"Santiago"
+         
+   },
+ 
+   {
+      "datasetid":"country-flags",
+      "recordid":"af97f1b8c328e05dab6177a7fe866a44cb2a2460",
+     
+        "latitude": ".29.31166",
+         "longitude": "47.481766",
+      "Superficie_totale": "17 818 km2",
+         "dialing_code":"965",
+         "a3_un":"KWT",
+         "country":"Kuwait",
+        "capital":"Ville de Koweït"
+        
+        
+    
+   },
+  
+   {
+      "datasetid":"country-flags",
+      "recordid":"e3d5d6b6b86088a0f391040d79b1a62d95237d42",
+    
+        "latitude": "-29.609988",
+         "longitude": "28.233608",
+      "Superficie_totale": "30 355 km2",
+         "dialing_code":"266",
+         "a3_un":"LSO",
+         "country":"Lesotho",
+        "capital":"Maseru"
+         
+    },
+      
+   {
+      "datasetid":"country-flags",
+      "recordid":"36acdccf34d8da05aff3cc49cc571d0b8ca9b365",
+     
+        "latitude": "41.87194",
+         "longitude": "12.56738",
+      "Superficie_totale": "301 336 km2",
+         "dialing_code":"39",
+         "a3_un":"ITA",
+         "country":"Italy",
+        "capital":"Rome"
+   },
+
+   {
+      "datasetid":"country-flags",
+      "recordid":"b0a907085c9b9441daee983019e92d79aacde324",
+  
+        "latitude": "39.074208",
+         "longitude": "21.824312",
+      "Superficie_totale": "131 957 km2",
+         "dialing_code":"30",
+         "a3_un":"GRC",
+         "country":"Greece",
+        "capital":"Athènes"
+     
+   },
+   
+  
+   {
+      "datasetid":"country-flags",
+      "recordid":"82c5fc50fee8a169bc5610f1d60ea3259c299e13",
+            "latitude": "-0.023559",
+         "longitude": "37.906193",
+      "Superficie_totale": "580 367 km2",
+         "dialing_code":"254",
+         "a3_un":"KEN",
+         "country":"Kenya",
+        "capital":"Nairobi"
+     
+     
+      
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"e2be66dc8b9da61a9c3b074ecb8f580b3c4b737e",
+     
+        "latitude": "25.930414",
+         "longitude": "50.637772",
+         "Superficie_totale": "765 km2",
+         "dialing_code":"973",
+         "a3_un":"BHR",
+         "country":"Bahrain",
+        "capital":"Manama"
+         
+     
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"6d8489b5ffacccdd772d4ae9ce6db7b7871dcd03",
+      
+        "latitude": "6.42375",
+         "longitude": "-66.58973",
+      "Superficie_totale": "916 445 km2",
+         "dialing_code":"58",
+         "a3_un":"VEN",
+         "country":"Venezuela",
+        "capital":"Caracas"
+     
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"fff3a9aad7c36f34c1a54d53adafe8b095d29aa9",
+
+        "latitude": "38.969719",
+         "longitude": "59.556278",
+      "Superficie_totale": "488 100 km2",
+         "dialing_code":"993",
+         "a3_un":"TKM",
+         "country":"Turkmenistan",
+        "capital":"Achgabat"
+    },
+      
+   {
+      "datasetid":"country-flags",
+      "recordid":"f82ca6c7f5965f72d0aa8572bee9c25e4f82de09",
+     
+        "latitude": "7.946527",
+         "longitude": "-1.023194",
+      "Superficie_totale": "238 540 km2",
+         "dialing_code":"233",
+         "a3_un":"GHA",
+         "country":"Ghana",
+        "capital":"Accra"
+  
+   },
+  
+   {
+      "datasetid":"country-flags",
+      "recordid":"94f2e1cf3a362a9c555e81b4601d09e7e964b910",
+    
+        "latitude": "40.463667",
+         "longitude": "-3.74922",
+      "Superficie_totale": "505 911 km2",
+         "dialing_code":"34",
+         "a3_un":"ESP",
+         "country":"Spain",
+        "capital":"Madrid"
+        
+   },
+   {
+      "datasetid":"country-flags",
+      "recordid":"64be10f00dd5f4017dbb00bb8d122cba575899ae",
+         "latitude": "12.865416",
+         "longitude": "-85.207229",
+      "Superficie_totale": "129 494 km2",
+         "dialing_code":"505",
+         "a3_un":"NIC",
+         "country":"Nicaragua",
+        "capital":"Managua"
+    },
+       
+ 
+   {
+      "datasetid":"country-flags",
+      "recordid":"d96a13f446f6e50ecae6d4ad847e2dc1cff66211",
+     
+        "latitude": "51.165691",
+         "longitude": "10.451526",
+      "Superficie_totale": "752 614 km2",
+         "dialing_code":"49",
+         "a3_un":"DEU",
+         "country":"Germany",
+        "capital":"Dublin"
+   },
+ 
+   {
+      "datasetid":"country-flags",
+      "recordid":"53310161ffc39e5e71a4d88c6eec21c54e1550f7",
+     
+        "latitude": "-13.133897",
+         "longitude": "27.849332",
+      "Superficie_totale": "752 614 km2",
+         "dialing_code":"260",
+         "a3_un":"ZMB",
+         "country":"Zambia",
+         "capital":"Lusaka"
+   }
+]
+}

@@ -43,10 +43,10 @@ https://github.com/imane75/Imane_mobile
 - liste de différents pays. On trouve le drapeau, le nom et la capitale du pays 
 
 
+https://github.com/imane75/Imane_mobile/blob/master/1.PNG
 
 
-
-### Ecran du détail du pays
+### Deuxième ecran avec du détail du pays
 
 - Affiche : la longitude
             la latitude
@@ -54,4 +54,4 @@ https://github.com/imane75/Imane_mobile
             le numéro d'indicatif 
             la capitale
 
-
+https://github.com/imane75/Imane_mobile/blob/master/2.PNG

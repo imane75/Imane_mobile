@@ -8,7 +8,8 @@
        "Superficie_totale":"1 964 375 km2",
        "a3_un":"MEX",
        "country":"Mexico",
-       "capital":"Mexico"
+       "capital":"Mexico",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/165px-Flag_of_Mexico.svg.png"
     
    },
    {
@@ -19,7 +20,9 @@
          "Superficie_totale":"647 500 km2",
          "a3_un":"AFG",
          "country":"Afghanistan",
-         "capital":"Kaboul"   
+         "capital":"Kaboul",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/165px-Flag_of_Afghanistan.svg.png"
+      
     },
      
    {
@@ -31,8 +34,9 @@
          "dialing_code":"253",
          "a3_un":"DJI",
          "country":"Djibouti",
-     "capital":"Djibouti"
-       
+     "capital":"Djibouti",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/165px-Flag_of_Djibouti.svg.png"
+ 
       
    },
    {
@@ -45,7 +49,9 @@
          "dialing_code":"32",
          "a3_un":"BEL",
          "country":"Belgium",
-        "capital":"Bruxelles"
+        "capital":"Bruxelles",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/165px-Flag_of_Belgium.svg.png"
+
    
    },
      
@@ -59,7 +65,9 @@
          "dialing_code":"224",
          "a3_un":"GIN",
          "country":"Guinea",
-        "capital":"Conakry"
+        "capital":"Conakry",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/165px-Flag_of_Guinea.svg.png"
+
     
      
    },
@@ -74,7 +82,9 @@
          "dialing_code":"685",
          "a3_un":"WSM",
          "country":"Samoa",
-        "capital":"Apia"
+        "capital":"Apia",
+         "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/165px-Flag_of_Samoa.svg.png"
+
          
    },
    {
@@ -86,7 +96,9 @@
          "dialing_code":"61",
          "a3_un":"AUS",
          "country":"Australia",
-        "capital":"Canberra"
+        "capital":"Canberra",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/165px-Flag_of_Australia_%28converted%29.svg.png"
+
         
      
    },
@@ -100,7 +112,9 @@
          "dialing_code":"212",
          "a3_un":"MAR",
          "country":"Morocco",
-        "capital":"Rabat"
+        "capital":"Rabat",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/165px-Flag_of_Morocco.svg.png"
+
         
        
    },
@@ -113,7 +127,9 @@
          "dialing_code":"1-876",
          "a3_un":"JAM",
          "country":"Jamaica",
-        "capital":"Lusaka"
+        "capital":"Lusaka",    
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/165px-Flag_of_Jamaica.svg.png"
+
       
         
 
@@ -128,7 +144,9 @@
          "dialing_code":"44",
          "a3_un":"GGY",
          "country":"Guernsey",
-        "capital":"Saint-Pierre-Port"
+        "capital":"Saint-Pierre-Port",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/195px-Flag_of_Guernsey.svg.png"
+
         
          
    },
@@ -141,7 +159,9 @@
          "dialing_code":"372",
          "a3_un":"EST",
          "country":"Estonia",
-        "capital":"Tallinn"
+        "capital":"Tallinn",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/165px-Flag_of_Estonia.svg.png"
+
         
    },
    {
@@ -154,7 +174,9 @@
          "dialing_code":"31",
          "a3_un":"NLD",
          "country":"Netherlands",
-        "capital":"Amsterdam"
+        "capital":"Amsterdam",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/165px-Flag_of_the_Netherlands.svg.png"
+
          
     },
          
@@ -168,7 +190,9 @@
          "dialing_code":"46",
          "a3_un":"SWE",
          "country":"Sweden",
-        "capital":"Stockholm"
+        "capital":"Stockholm",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/165px-Flag_of_Switzerland_%28Pantone%29.svg.png"
+
    },  
    {
       "datasetid":"country-flags",
@@ -179,7 +203,9 @@
          "dialing_code":"960",
          "a3_un":"MDV",
          "country":"Maldives",
-        "capital":"Malé"
+        "capital":"Malé",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/165px-Flag_of_Maldives.svg.png"
+
     },
      
    {
@@ -192,7 +218,9 @@
          "dialing_code":"503",
          "a3_un":"SLV",
          "country":"El Salvador",
-        "capital":"San Salvador"
+        "capital":"San Salvador",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/165px-Flag_of_El_Salvador.svg.png"
+
          
    },
    {
@@ -204,7 +232,9 @@
          "dialing_code":"56",
          "a3_un":"CHL",
          "country":"Chile",
-        "capital":"Santiago"
+        "capital":"Santiago",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/165px-Flag_of_Chile.svg.png"
+
          
    },
  
@@ -218,7 +248,9 @@
          "dialing_code":"965",
          "a3_un":"KWT",
          "country":"Kuwait",
-        "capital":"Ville de Koweït"
+        "capital":"Ville de Koweït",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/165px-Flag_of_Kuwait.svg.png"
+
         
         
     
@@ -234,7 +266,9 @@
          "dialing_code":"266",
          "a3_un":"LSO",
          "country":"Lesotho",
-        "capital":"Maseru"
+        "capital":"Maseru",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/165px-Flag_of_Lesotho.svg.png"
+
          
     },
       
@@ -248,7 +282,8 @@
          "dialing_code":"39",
          "a3_un":"ITA",
          "country":"Italy",
-        "capital":"Rome"
+        "capital":"Rome",
+         "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/165px-Flag_of_Italy.svg.png"
    },
 
    {
@@ -261,7 +296,9 @@
          "dialing_code":"30",
          "a3_un":"GRC",
          "country":"Greece",
-        "capital":"Athènes"
+        "capital":"Athènes",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/165px-Flag_of_Greece.svg.png"
+
      
    },
    
@@ -275,7 +312,9 @@
          "dialing_code":"254",
          "a3_un":"KEN",
          "country":"Kenya",
-        "capital":"Nairobi"
+        "capital":"Nairobi",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/165px-Flag_of_Kenya.svg.png"
+
      
      
       
@@ -290,7 +329,9 @@
          "dialing_code":"973",
          "a3_un":"BHR",
          "country":"Bahrain",
-        "capital":"Manama"
+        "capital":"Manama",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/165px-Flag_of_Bahrain.svg.png"
+
          
      
    },
@@ -304,7 +345,9 @@
          "dialing_code":"58",
          "a3_un":"VEN",
          "country":"Venezuela",
-        "capital":"Caracas"
+        "capital":"Caracas",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/165px-Flag_of_Venezuela_%28state%29.svg.png"
+
      
    },
    {
@@ -317,7 +360,9 @@
          "dialing_code":"993",
          "a3_un":"TKM",
          "country":"Turkmenistan",
-        "capital":"Achgabat"
+        "capital":"Achgabat",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/165px-Flag_of_Turkmenistan.svg.png"
+
     },
       
    {
@@ -330,7 +375,9 @@
          "dialing_code":"233",
          "a3_un":"GHA",
          "country":"Ghana",
-        "capital":"Accra"
+        "capital":"Accra",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/165px-Flag_of_Ghana.svg.png"
+
   
    },
   
@@ -344,7 +391,9 @@
          "dialing_code":"34",
          "a3_un":"ESP",
          "country":"Spain",
-        "capital":"Madrid"
+        "capital":"Madrid",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/165px-Flag_of_Spain.svg.png"
+
         
    },
    {
@@ -356,7 +405,9 @@
          "dialing_code":"505",
          "a3_un":"NIC",
          "country":"Nicaragua",
-        "capital":"Managua"
+        "capital":"Managua",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/165px-Flag_of_Nicaragua.svg.png"
+
     },
        
  
@@ -370,7 +421,9 @@
          "dialing_code":"49",
          "a3_un":"DEU",
          "country":"Germany",
-        "capital":"Dublin"
+        "capital":"Dublin",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/165px-Flag_of_Germany.svg.png"
+
    },
  
    {
@@ -383,7 +436,9 @@
          "dialing_code":"260",
          "a3_un":"ZMB",
          "country":"Zambia",
-         "capital":"Lusaka"
+         "capital":"Lusaka",
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/165px-Flag_of_Zambia.svg.png"
+
    }
 ]
 }
